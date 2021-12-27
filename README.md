@@ -4,6 +4,8 @@ RAW INFORMATICS WORK CERTIFICATE - No Visuals
 
 Here's the Raw version of my Informatics Work Certificate, with no visual effects or edits. 
 The project consists of 3 games, a media player and an "About" section.
+![image](https://user-images.githubusercontent.com/96659100/147512979-71b8df6f-d679-44e9-93a0-f749d754d737.png)
+
 
 ## Game 1: 
   Conway's Game of Life (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
